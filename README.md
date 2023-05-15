@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Vitória Lucy Mina Alves Branco, tenho 17 anos e estou cursando o ensino médio integrado ao técnico de desenvolvimento de sistemas.
+Meu nome é Vitória Lucy Mina Alves Branco, tenho 17 anos e estou cursando o ensino médio integrado ao técnico de desenvolvimento de sistemas 
 
 
 # 💻 Tech Stack:
